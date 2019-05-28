@@ -6,7 +6,7 @@
   "repository": "https://github.com/bkdev98/innoteq-design-system",
   "author": "Quoc Khanh <bkdev98@gmail.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "lint": "eslint . --fix",
     "build": "babel src --out-dir dist"
