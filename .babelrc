@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    "transform-object-rest-spread",
+    "transform-react-jsx",
+    "transform-class-properties",
+    "babel-plugin-styled-components"
+  ],
+  "presets": [
+    [
+      "babel-preset-es2015",
+      "env"
+    ]
+  ]
+}
